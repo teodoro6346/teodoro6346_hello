@@ -1,0 +1,3 @@
+sudo apt install valgrind  # Ubuntu, Debian, etc.
+sudo yum install valgrind  # RHEL, CentOS, Fedora, etc.
+sudo pacman -Syu valgrind  # Arch, Manjaro, Garuda, etc
